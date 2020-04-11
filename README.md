@@ -31,3 +31,6 @@
 
 For a **GTK** theme you can use the Canta-Dark theme inside the KDE GTK Application Styles Repository. It is very close and I do not see the need for a GTK Theme currently, but might come at some point.
 
+### Here is Gnome Disks as an Example
+![GTKWin](https://i.ibb.co/whjx2sp/image.png)
+
