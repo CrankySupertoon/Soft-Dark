@@ -4,7 +4,8 @@
 ### A Theme For KDE Plasma that looks Sick
 ![Rice](https://i.ibb.co/7jw3bBZ/rice.png)
 
-## Install Instructions
+## <img src="https://cdn.iconscout.com/icon/free/png-256/qt-2-555851.png" width=32 align="top"> Install Guide
+
 
 **1.** Download the ZIP File or Clone this Repo
 
@@ -25,3 +26,8 @@
 **9.** Go to the Window Decorations tab and set the Theme to Soft Dark
 
 **10.** Finally go to the Colors tab and set the theme to Kvantum
+
+## <img src="https://www.gtk.org/assets/img/logo-gtk-sm.png" width=32 align="top"> GTK Install Guide
+
+For a **GTK** theme you can use the Canta-Dark theme inside the KDE GTK Application Styles Repository. It is very close and I do not see the need for a GTK Theme currently, but might come at some point.
+
