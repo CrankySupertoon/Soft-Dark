@@ -34,3 +34,12 @@ For a **GTK** theme you can use the Canta-Dark theme inside the KDE GTK Applicat
 ### Here is Gnome Disks as an Example
 ![GTKWin](https://i.ibb.co/whjx2sp/image.png)
 
+## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/WINE-Logo.svg/1200px-WINE-Logo.svg.png" width=20 align="top"> Install Guide
+
+For our custom **Wine** Style we are modifying the Wine / Windows Registry and the wine-soft-dark.reg file is a script that can modify it.
+
+To apply the **Wine** Style type in your terminal
+
+```bash
+wine regedit wine-soft-dark.reg
+```
