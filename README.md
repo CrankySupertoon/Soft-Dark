@@ -43,3 +43,5 @@ To apply the **Wine** Style type in your terminal
 ```bash
 wine regedit wine-soft-dark.reg
 ```
+
+![WineReg](https://i.ibb.co/P6ybTCQ/image.png)
